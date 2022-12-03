@@ -8,8 +8,8 @@
   사용 툴 : Lark Parser
 
 ## Part 1-2 :
-  DDL 처리. Data Definition Language인 create table, show tables, desc, drop table 구현
-  사용 툴 : BerkeleyDB, Lark Parser
+  * DDL 처리. Data Definition Language인 create table, show tables, desc, drop table 구현
+  * 사용 툴 : BerkeleyDB, Lark Parser
   
 ## Part 1-3 : 
   DML 처리. Data Manipulation Language인 insert, delete, update, select 구현
