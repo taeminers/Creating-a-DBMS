@@ -2,6 +2,7 @@
 
 이번 프로젝트는 DBMS 를 구현하는 프로젝트로, 난이도가 높았던 프로젝트였습니다.
 총 3개의 파트로 진행되었습니다.
+*Testing 및 체점 때문에 code modularization 을 하지 못한 점 참고 부탁드립니다.*
 
 ## Part 1-1 :
   * Query Parser 만들기 및 쿼리 syntax가 syntactically 맞는지 확인
